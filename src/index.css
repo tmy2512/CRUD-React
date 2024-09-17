@@ -1,0 +1,34 @@
+@font-face {
+  font-family: robotoBlack;
+  src: url(../src/style/font/Roboto/Roboto-Black.ttf) format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: robotoLight;
+  src: url(../src/style/font/Roboto/Roboto-Light.ttf) format("truetype");
+  font-style: normal;
+}
+@font-face {
+  font-family: robotoBold;
+  src: url(../src/style/font/Roboto/Roboto-Bold.ttf) format("truetype");
+  font-style: normal;
+}
+*{
+  box-sizing: border-box;
+}
+p, h1, h2, h3, h4, h5, h6 
+{
+  margin: 0;
+}
+html,body {
+  font-family: robotoLight, Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

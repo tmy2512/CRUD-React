@@ -1,0 +1,69 @@
+.sign-in {
+    min-height: 100vh;
+    background: #f2f2f2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    &__container {
+      width: 390px;
+      background: #fff;
+      border-radius: 10px;
+      overflow: hidden;
+      padding: 77px 55px 77px;
+      box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.1);
+    }
+  
+    &__heading {
+      font-family: robotoBlack, Arial, Helvetica, sans-serif;
+      display: block;
+      font-size: 30px;
+      color: #333;
+      line-height: 1.2;
+      text-align: center;
+      margin: 0 0 26px 0;
+    }
+  
+    &__textfield {
+      font-size: 15px;
+      color: #555;
+      line-height: 1.2;
+      display: block;
+      width: 100%;
+      height: 45px;
+      background: 0 0;
+      padding: 0 5px;
+      border: none;
+      outline: none;
+      border-bottom: 1.5px solid #dfdfdf;
+      margin: 0 0 37px 0;
+  
+      &::placeholder {
+        font-size: 14px;
+        color: #adadad;
+        font-family: robotoLight, Arial, Helvetica, sans-serif;
+      }
+    }
+  
+    &__btn {
+      background: -webkit-linear-gradient(
+        right,
+        #21d4fd,
+        #b721ff,
+        #21d4fd,
+        #b721ff
+      );
+      height: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      border: none;
+      border-radius: 25px;
+      color: white;
+      outline: none;
+      font-size: 14px;
+      text-transform: uppercase;
+      font-family: robotoBold, Arial, Helvetica, sans-serif;
+    }
+  }
