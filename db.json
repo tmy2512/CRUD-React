@@ -1,13 +1,6 @@
 {
   "users": [
     {
-      "id": "e435",
-      "email": "tramya2k41@gmail.com",
-      "fullName": "Đỗ Trà My",
-      "department": "rikkesoft",
-      "position": "dev"
-    },
-    {
       "id": "15d3",
       "email": "linh.vtk191246@sis.hust.edu.vn",
       "fullName": "Trinh Duy Phuong",
@@ -21,6 +14,158 @@
       "department": "cmc",
       "position": "ba",
       "dateCreated": "2024-09-17T09:10:43.492Z"
+    },
+    {
+      "id": "8e8f",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My1",
+      "department": "fsoft",
+      "position": "comtor",
+      "dateCreated": "2024-09-18T07:29:10.420Z"
+    },
+    {
+      "id": "0efd",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My",
+      "department": "cmc",
+      "position": "sale",
+      "dateCreated": "2024-09-18T07:42:27.301Z"
+    },
+    {
+      "id": "fe80",
+      "email": "linh.vtk191246@sis.hust.edu.vn",
+      "fullName": "Đỗ Trà My",
+      "department": "fsoft",
+      "position": "sale",
+      "dateCreated": "2024-09-18T07:43:08.294Z"
+    },
+    {
+      "id": "f801",
+      "email": "linh.vtk191246@sis.hust.edu.vn",
+      "fullName": "Đỗ Trà My",
+      "department": "fsoft",
+      "position": "sale",
+      "dateCreated": "2024-09-18T07:43:21.461Z"
+    },
+    {
+      "id": "8521",
+      "email": "tramya2k41@gmail.com",
+      "fullName": "Trinh Duy Phuong",
+      "department": "fsoft",
+      "position": "sale",
+      "dateCreated": "2024-09-18T07:43:28.829Z"
+    },
+    {
+      "id": "2f83",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Trinh Duy Phuong",
+      "department": "vti",
+      "position": "sale",
+      "dateCreated": "2024-09-18T07:43:37.205Z"
+    },
+    {
+      "id": "47f8",
+      "email": "tramya2k41@gmail.com",
+      "fullName": "Đỗ Trà My",
+      "department": "rikkesoft",
+      "position": "sale",
+      "dateCreated": "2024-09-18T07:43:47.397Z"
+    },
+    {
+      "id": "be03",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My",
+      "department": "fsoft",
+      "position": "sale",
+      "dateCreated": "2024-09-18T07:43:53.821Z"
+    },
+    {
+      "id": "f828",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My",
+      "department": "cmc",
+      "position": "comtor",
+      "dateCreated": "2024-09-18T07:44:00.717Z"
+    },
+    {
+      "id": "2e20",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My",
+      "department": "fsoft",
+      "position": "ba",
+      "dateCreated": "2024-09-18T07:44:09.357Z"
+    },
+    {
+      "id": "66c2",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My",
+      "department": "cmc",
+      "position": "dev",
+      "dateCreated": "2024-09-18T07:44:31.069Z"
+    },
+    {
+      "id": "bdd0",
+      "email": "21A100100248@STUDENTS.HOU.EDU.VN",
+      "fullName": "Trinh Duy Phuong",
+      "department": "vti",
+      "position": "dev",
+      "dateCreated": "2024-09-18T07:44:49.149Z"
+    },
+    {
+      "id": "c3be",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My11",
+      "department": "fsoft",
+      "position": "ba",
+      "dateCreated": "2024-09-18T07:44:59.301Z"
+    },
+    {
+      "id": "4838",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My3",
+      "department": "fsoft",
+      "position": "sale",
+      "dateCreated": "2024-09-18T07:45:52.796Z"
+    },
+    {
+      "id": "5168",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My4",
+      "department": "rikkesoft",
+      "position": "sale",
+      "dateCreated": "2024-09-18T07:46:01.812Z"
+    },
+    {
+      "id": "86b0",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My5",
+      "department": "vti",
+      "position": "dev",
+      "dateCreated": "2024-09-18T07:46:12.621Z"
+    },
+    {
+      "id": "e429",
+      "email": "tramya2k4@gmail.com",
+      "fullName": "Đỗ Trà My9",
+      "department": "vti",
+      "position": "comtor",
+      "dateCreated": "2024-09-18T07:46:44.580Z"
+    },
+    {
+      "id": "3714",
+      "email": "linh.vtk191246@sis.hust.edu.vn",
+      "fullName": "Trinh Duy Phuong6",
+      "department": "fsoft",
+      "position": "sale",
+      "dateCreated": "2024-09-18T07:46:54.292Z"
+    },
+    {
+      "id": "6107",
+      "email": "tramya2k41@gmail.com",
+      "fullName": "Đỗ Trà My10",
+      "department": "fsoft",
+      "position": "ba",
+      "dateCreated": "2024-09-18T07:48:19.140Z"
     }
   ]
 }

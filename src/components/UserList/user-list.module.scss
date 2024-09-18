@@ -4,6 +4,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
+      flex-direction: column;
     }
     &__wrapper {
       width: 1140px;
@@ -113,4 +114,15 @@
   .btn__popup__delete {
     background: #299be4;
     color: white;
+  }
+
+  .pagination {
+    width: 114px;
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+
+    select {
+      width: 50px;
+    }
   }

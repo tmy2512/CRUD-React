@@ -1,9 +1,13 @@
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Logo from "../Icons/Logo";
 import style from "./header.module.scss";
 import ArrowRight from "../Icons/ArrowRight";
 
 const Header = () => {
+  const navigate = useNavigate();
+  const handleLoginClick = () => {
+    navigate("/sign-in");
+  };
   const classes = {
     headerContainer: `${style.header__container}`,
     headerContent: `${style.header__content}`,
@@ -13,11 +17,11 @@ const Header = () => {
   return (
     <div className={classes.headerContainer}>
       <div className={classes.headerContent}>
-        <Link to="/" className={classes.headerIcon}>
+        <Link to="/sign-in" className={classes.headerIcon}>
           <Logo />
         </Link>
         <div>
-          <button className={classes.headerBtn}>
+          <button className={classes.headerBtn} onClick={handleLoginClick}>
             <span>Login</span>
             <span>
               <ArrowRight />

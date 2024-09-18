@@ -4,7 +4,6 @@ import { useEffect, useState } from "react";
 import moment from "moment";
 
 const UserForm = () => {
-  
   const [user, setUser] = useState({
     email: "",
     fullName: "",
@@ -46,8 +45,8 @@ const UserForm = () => {
     setUser({
       email: "",
       fullName: "",
-      department: "",
-      position: "",
+      department: "vti",
+      position: "dev",
     });
   };
 
@@ -148,10 +147,10 @@ const UserForm = () => {
                   });
                 }}
               >
-                <option value="dev">Dev</option>
-                <option value="ba">BA</option>
-                <option value="sale">Sale</option>
-                <option value="pm">PM</option>
+                <option value="dev">Developer</option>
+                <option value="ba">Business Analyst</option>
+                <option value="comtor">Comtor</option>
+                <option value="sale">Saler</option>
               </select>
             </div>
             <div>
