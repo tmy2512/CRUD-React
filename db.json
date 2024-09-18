@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "e435",
+      "email": "tramya2k41@gmail.com",
+      "fullName": "Đỗ Trà My",
+      "department": "rikkesoft",
+      "position": "dev"
+    },
+    {
+      "id": "15d3",
+      "email": "linh.vtk191246@sis.hust.edu.vn",
+      "fullName": "Trinh Duy Phuong",
+      "department": "fsoft",
+      "position": "ba"
+    },
+    {
+      "id": "bf68",
+      "email": "21A100100248@STUDENTS.HOU.EDU.VN",
+      "fullName": "Đỗ Trà My",
+      "department": "cmc",
+      "position": "ba",
+      "dateCreated": "2024-09-17T09:10:43.492Z"
+    }
+  ]
+}
